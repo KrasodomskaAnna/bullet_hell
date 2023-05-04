@@ -1,0 +1,35 @@
+levels:
+    0:
+        Block 70 50 ./resources/asteroida.bmp ./resources/boom.bmp
+        Block 800 500 ./resources/asteroida.bmp ./resources/boom.bmp
+        Enemy 300 300 ./resources/enemy_2.bmp ./resources/enemy_animation2.bmp even
+    1:
+        Block 70 50 ./resources/asteroida.bmp  ./resources/boom.bmp
+        Block 800 500 ./resources/asteroida.bmp  ./resources/boom.bmp
+        Enemy 400 45 ./resources/enemy_2.bmp ./resources/enemy_animation2.bmp custom
+            Bullet 120 15
+            Bullet 220 10
+            Bullet 360 15
+        AFreq 3000
+        BSize 1500 600
+    2:
+        Block 70 50 ./resources/asteroida.bmp  ./resources/boom.bmp
+        Block 800 500 ./resources/asteroida.bmp  ./resources/boom.bmp
+        Enemy 400 45 ./resources/enemy_2.bmp ./resources/enemy_animation2.bmp custom
+            Bullet 120 15
+            Bullet 120 10
+            Bullet 120 15
+    3:
+        Block 70 50 ./resources/asteroida.bmp  ./resources/boom.bmp
+        Block 800 500 ./resources/asteroida.bmp  ./resources/boom.bmp
+        Enemy 400 45 ./resources/enemy_2.bmp ./resources/enemy_animation2.bmp custom
+            Bullet 120 15
+            Bullet 120 10
+            Bullet 120 15
+    4:
+        Block 70 50 ./resources/asteroida.bmp  ./resources/boom.bmp
+        Block 800 500 ./resources/asteroida.bmp  ./resources/boom.bmp
+        Enemy 400 45 ./resources/enemy_2.bmp ./resources/enemy_animation2.bmp custom
+            Bullet 120 15
+            Bullet 120 10
+            Bullet 120 15
